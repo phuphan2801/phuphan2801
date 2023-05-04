@@ -33,7 +33,7 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
   <img src="https://img.icons8.com/?size=48&id=17836&format=png"/>
-  <img src="https://img.icons8.com/?size=512&id=UFXRpPFebwa2&format=png"/>
+  <img src="https://img.icons8.com/?size=48&id=UFXRpPFebwa2&format=png"/>
   
 </p>
 
