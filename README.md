@@ -32,7 +32,8 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img src="icons8-android-os-48.png"/>
+  <img src="![icons8-android-os-48](https://user-images.githubusercontent.com/125887347/236286275-929ad10e-028b-43d2-9ddf-e624fa7b5477.png)
+"/>
   
 </p>
 
