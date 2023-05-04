@@ -32,7 +32,8 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img src="https://tse2.mm.bing.net/th?id=OIP.5_SWV9FRtcVPCtA9K67LAQAAAA&pid=Api&P=0"/>
+  <img src="icons8-android-os-48.png"/>
+  
 </p>
 
 
